@@ -39,7 +39,7 @@ afterEvaluate{
 
                 groupId = 'com.github.blair49'
                 artifactId = 'text-transformer'
-                version = '1.0'
+                version = '1.2'
             }
         }
     }
